@@ -1,24 +1,17 @@
-# README
+# Yelp demo app 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an app
 
-Things you may want to cover:
+## Work completed
+1. Build a Reviews and Ratings Aggregator
+2. Bootstrap Website views
+3. Setup Bootstrap on the app
+4. Launch Site
+5. Add Images
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Work in Progres
+6. Add Front-end Design
+7. Add Users
+8. Add Reviews
+9. Add Star Ratings
+10. Set Validations and Permissions
